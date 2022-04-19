@@ -26,7 +26,7 @@ Generate Pyrogram String Session Using this bot.
 - [Subhan-1](https://github.com/subhan-1)
 
 ## Original repository
-##### [Main repo](https://github.com/Krishna-Singhal/genStr)
+### [Main repo](https://github.com/Krishna-Singhal/genStr)
 
 ## Follow on:
 <p align="left">
