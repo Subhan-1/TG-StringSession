@@ -1,6 +1,9 @@
 ## Pyrogram String Session Generator
 Generate Pyrogram String Session Using this bot.
 
+## Main [repo](https://github.com/Krishna-Singhal/genStr)
+
+
 ## Configs:
 - API_HASH
   - Get from [Here](https://my.telegram.org).
@@ -24,8 +27,6 @@ Generate Pyrogram String Session Using this bot.
 - [Asm Safone](https://github.com/AsmSafone)
 - [Abir Hasan](https://github.com/AbirHasan2005)
 - [Subhan-1](https://github.com/subhan-1)
-
-## Main [repo](https://github.com/Krishna-Singhal/genStr)
 
 ## Follow on:
 <p align="left">
